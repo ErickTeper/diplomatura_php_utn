@@ -1,0 +1,3 @@
+<div class='comunidad'><h3>Nombre: Erick</h3><h4> Coctel: ruso blanco</h4><h4> receta: Vodka
+Licor de cafe
+leche condensada</h4><h5> Publicado el: 07/06/22 a la/s: 8:3</h5></div><div class='comunidad'><h3>Nombre: Juan</h3><h4> Coctel: Caipiroska</h4><h4> receta: vodka, jugo de limon, azucar</h4><h5> Publicado el: 07/06/22 a la/s: 8:4</h5></div><div class='comunidad'><h3>Nombre: Jorge</h3><h4> Coctel: Old Fashion</h4><h4> receta: whisky, angostura, azucar, naranja</h4><h5> Publicado el: 07/06/22 a la/s: 8:20</h5></div>
