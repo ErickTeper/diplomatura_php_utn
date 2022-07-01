@@ -1,3 +1,9 @@
+<?php 
+session_start();
+if (isset($_SESSION['admin'])){
+
+?>  
+
 <?php include('header.php')?>   
 
 <section class="contenedor_carga">
@@ -20,3 +26,6 @@
     }
     ?> 
  </section>
+ <?php }else{
+    header('location:index.php');
+ } ?>

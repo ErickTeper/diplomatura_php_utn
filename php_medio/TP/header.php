@@ -16,6 +16,7 @@
             <li class="botones"><a class="botones_vinc" href="subir_coctel.php">SUBIR COCTEL</a></li>
             <li class="bonotes"><a class="botones_vinc" href="destacados.php">DESTACADOS</a></li>
             <li class="botones"><a class="botones_vinc" href="comunidad.php">COMPARTÍ TU COCTEL</a></li>
+            <li class="botones"><a class="botones_vinc" href="salir.php">CERRAR SESION</a></li>
         </ul>
     </nav>
     </header> 
